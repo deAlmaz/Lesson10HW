@@ -1,0 +1,197 @@
+/*---MAIN---*/
+body{
+    background: #ffffff;
+}
+input{
+    display: block;
+    width: 300px;
+    border:1px solid #EAEAEA;
+    border-radius: 5px;
+}
+button{
+    background-color: #ffffff;
+    border:1px solid #EAEAEA;
+    display: block;
+    width: 300px;
+    border-radius: 5px;
+}
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+div{
+    text-align: center;
+}
+/*---MAIN---*/
+
+/*---DIVS---*/
+.resultField{
+    width: 500px;
+    margin: 0 auto;
+    font-family: 'Century Gothic', sans-serif;
+    text-align: start;
+}
+
+.titleParent{
+    width: 500px;
+    height: 656px;
+    margin: 0 auto;
+    font-family: 'Century Gothic', sans-serif;
+    text-align: center;
+    border: 1px solid #EAEAEA;
+}
+.titleParentContainer{
+    width: 500px;
+    padding-top: 52px;
+}
+.fieldDescription-01{
+    width: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    text-align: start;
+}
+.fieldDescription-02{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 36px;
+}
+.fieldForm{
+    width: 300px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.buttonContainer{
+    height: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.footerLine{
+    width: 500px;
+    height: 10px;
+    background-color: #46A358;
+    margin: 0 auto;
+}
+/*---DIVS---*/
+
+/*---TEXTS---*/
+.textTitleParent{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px
+}
+.textTitle-01{
+    color: #3D3D3D;
+}
+.textTitle-02{
+    color: #A5A5A5;
+}
+.textTitle-03{
+    color: #46A358;
+}
+.textDesc-02-1{
+    color: #EAEAEA;
+}
+.textDesc-02-2{
+    color: #3D3D3D;
+}
+.textDesc-02-3{
+    color: #EAEAEA;
+}
+.textDescription-01{
+    font-weight: 400;
+    font-size: 13px;
+    color: #3D3D3D;
+    line-height: 16px;
+}.textDescription-02{
+     font-weight: 400;
+     font-size: 13px;
+     line-height: 16px
+}
+.textInput{
+    width: 300px;
+    height: 40px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 14px;
+    color: #3D3D3D;
+    line-height: 16px;
+    font-weight: 400;
+}
+.textButtonRegister{
+    width: 300px;
+    height: 45px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 16px;
+    font-weight: 700;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #46A358;
+}
+.textButtonHref{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    font-family: 'Century Gothic', sans-serif;
+    text-align: center;
+    min-height: 10px;
+    align-items: center;
+    display: inline-flex;
+}
+/*---TEXTS---*/
+
+/*---PADDINGS---*/
+.padding-T-12{
+    padding-top: 12px;
+}
+.padding-T-14{
+    padding-top: 14px;
+}
+.padding-T-16{
+    padding-top: 16px;
+}
+.padding-T-41{
+    padding-top: 41px;
+}
+.padding-T-30{
+    padding-top: 30px;
+}
+.padding-T-45{
+    padding-top: 45px;
+}
+.padding-B-12{
+    padding-top: 12px;
+}
+.padding-R-14{
+    padding-right: 14px;
+}
+.padding-R-16{
+    padding-right: 16px;
+}
+.padding-9{
+    padding: 9px;
+}
+/*---PADDINGS---*/
+
+/*---IMAGES---*/
+.imagePasswordHide{
+    background: url(../img/hide.png) no-repeat right;
+    background-size: 20px;
+    background-position-x: 270px;
+}
+/*---IMAGES---*/
+
+/*---BUTTONS---*/
+.button{
+    height: 40px;
+}
+/*---BUTTONS---*/
