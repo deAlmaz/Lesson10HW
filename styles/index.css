@@ -190,7 +190,7 @@ ul {
                 background-color: #1A712A;
                 a{color: white;}
             }
-            &:hover .marker{
+            &:hover .dropdown-marker{
                 background-image: url('../img/dropdownmenu-arrow-down-white.svg');
                 transform: rotate(-270deg);
             }
